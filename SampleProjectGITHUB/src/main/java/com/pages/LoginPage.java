@@ -7,6 +7,7 @@ public class LoginPage {
 		System.out.println("this is new comment in page");
 		System.out.println("this is new comment implementing");
 		System.out.println("this is new comment implementing");
+		System.out.println("this new comment is not implementing now");
 	}
 
 }
