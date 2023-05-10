@@ -6,6 +6,7 @@ public class LoginPage {
 		System.out.println("this is login page");
 		System.out.println("this is new comment in page");
 		System.out.println("this is new comment implementing");
+		System.out.println("this is new comment implementing");
 	}
 
 }
