@@ -1,8 +1,11 @@
 package com.testcases;
 
-public class LoginTest {
+import org.testng.annotations.Test;
 
-	public static void main(String[] args) {
+public class LoginTest {
+	
+	@Test
+	public void testLogin() {
 		System.out.println("this is login test class");
 		System.out.println("this is login test class today is thursday night checked in ----");
 	}
